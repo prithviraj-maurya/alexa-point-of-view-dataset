@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/converting-the-point-of-view-of-messages/machine-translation-on-alexa-point-of-view)](https://paperswithcode.com/sota/machine-translation-on-alexa-point-of-view?p=converting-the-point-of-view-of-messages)
+
 # Point of View (POV) of Message Conversion Dataset
 Virtual assistants (VAs) tend to be literal in their delivery of messages. Most likely, if you ask them to deliver a message, the VAs either send a recorded message or a literal transcription to the receiver. To make incremental improvement towards a virtual assistant that you may speak to conversationally and naturally, we have provided the data necessary to build AI systems that can convert the point of view of messages spoken to virtual assistants.
 
