@@ -317,11 +317,7 @@ in voice-based interactions.
 
 ### References
 
-[Rowan Zellers Paul G. Allen School of Computer Science & Engineering,
-Zellers, R., Paul G. Allen School of Computer Science & Engineering,
-Defending against neural fake news: Proceedings of the 33rd
-International Conference on Neural Information Processing Systems. Guide
-Proceedings](https://dl.acm.org/doi/10.5555/3454287.3455099).
+[Lee, I. G., Zu, V., Buddi, S. S., Liang, D., Kulkarni, P., & FitzGerald, J. G. (2020). Converting the point of view of messages spoken to virtual assistants. arXiv preprint arXiv:2010.02600..]([https://dl.acm.org/doi/10.5555/3454287.3455099](https://arxiv.org/abs/2010.02600).
 
 [Qader, Wisam & M. Ameen, Musa & Ahmed, Bilal. (2019). An Overview of
 Bag of Words;Importance, Implementation, Applications, and Challenges.
