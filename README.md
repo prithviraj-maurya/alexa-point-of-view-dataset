@@ -317,7 +317,7 @@ in voice-based interactions.
 
 ### References
 
-[Lee, I. G., Zu, V., Buddi, S. S., Liang, D., Kulkarni, P., & FitzGerald, J. G. (2020). Converting the point of view of messages spoken to virtual assistants. arXiv preprint arXiv:2010.02600..]([https://dl.acm.org/doi/10.5555/3454287.3455099](https://arxiv.org/abs/2010.02600).
+[Lee, I. G., Zu, V., Buddi, S. S., Liang, D., Kulkarni, P., & FitzGerald, J. G. (2020). Converting the point of view of messages spoken to virtual assistants.](https://arxiv.org/abs/2010.02600).
 
 [Qader, Wisam & M. Ameen, Musa & Ahmed, Bilal. (2019). An Overview of
 Bag of Words;Importance, Implementation, Applications, and Challenges.
