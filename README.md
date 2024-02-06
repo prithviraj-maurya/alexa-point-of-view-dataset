@@ -1,5 +1,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/converting-the-point-of-view-of-messages/machine-translation-on-alexa-point-of-view)](https://paperswithcode.com/sota/machine-translation-on-alexa-point-of-view?p=converting-the-point-of-view-of-messages)
 
+### Huggingface hub link to play with the model: [prithviraj-maurya/alexa_converting_pov](https://huggingface.co/prithviraj-maurya/alexa_converting_pov)
+
 ## Navigating Conversation with Voice Assistants
 
 ### Abstract
